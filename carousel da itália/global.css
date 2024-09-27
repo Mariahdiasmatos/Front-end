@@ -1,0 +1,43 @@
+menu{
+    margin: 30px;
+    height: 125px;
+    width: 1800px;
+    background-color: skyblue;
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 50px;
+    padding: 20px;
+}
+.carousel-inner{
+    margin: 30px;
+    height: 500px;
+    width: 1800px;
+}
+.cards{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 20px;
+}
+.card1{
+    margin-right: 150px;
+}
+
+.card2{
+    margin-right: 150px;
+}
+
+.card3{
+    margin-right: 150px;
+}
+.imagens{
+    height: 600px;
+    width: 1800px;
+}
+body{
+    background-color: rgb(200, 239, 252);
+}
+a{
+    margin-top: 10px;
+
+}
