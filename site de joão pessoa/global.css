@@ -1,0 +1,54 @@
+.parteprimária{
+     background-image:url(https://images.pexels.com/photos/237272/pexels-photo-237272.jpeg);
+     background-size: cover;
+     width: 99vw;
+     height: 100vh;
+    
+}
+
+
+.nav-item{
+    margin-top: 20px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 20px;
+    margin-left: 150px;
+}
+
+.navbar-brand{
+margin-top: 20px;
+}
+.container-fluid{
+    background-color: darkcyan;
+    height: 80px;
+    width: 1900px;
+    position: fixed;
+    opacity: 0.80;
+    padding: 30px;
+}
+article{
+display: flex;
+flex-direction: column;
+justify-content: center;
+padding-left: 100px;
+width: fit-content;
+margin-top: 700px;
+font-size: 1000px;
+color: rgb(190, 216, 243);
+}
+
+footer{
+    background-color: darkcyan;
+    height: 80px;
+    width: 1890px;
+    margin-top: 10px;
+    justify-content: space-evenly;
+    align-items: center;
+    display: flex;
+}
+    
+div{
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+font-size: 20px;
+}
+
+
