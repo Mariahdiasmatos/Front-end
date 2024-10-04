@@ -1,0 +1,70 @@
+.parteprimaria{
+     background-image:url(https://images.pexels.com/photos/237272/pexels-photo-237272.jpeg);
+     background-size: cover;
+     width: 99vw;
+     height: 100vh; 
+}
+/*fundo da tela:imagem*/
+
+.nav-item{
+    margin-top: 30px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: 400;
+    font-size: 20px;
+    margin-left: 150px;
+}
+/*itens do menu*/
+
+.nav-link{
+    color: rgb(190, 216, 243);
+}
+/*itens do menu sem joão pessoa*/
+
+.navbar-brand{
+padding-top: 30px;
+font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+color: rgb(190, 216, 243);
+font-size: 40px;
+}
+/*joão pessoa*/
+
+.container-fluid{
+    background-color: rgb(64, 115, 182,0.80);
+    height: 80px;
+    width: 1893px;
+    position: fixed;
+
+}
+/*caixa do menu*/
+
+article{
+display: flex;
+flex-direction: column;
+justify-content: center;
+padding-left: 100px;
+width: fit-content;
+margin-top: 700px;
+color: rgb(190, 216, 243);
+}
+article h1{
+    font-size: 60px;
+}
+article h3{
+    font-size: 60px;
+}
+/*escita encima da imagem*/
+
+footer{
+    background-color: rgb(64, 115, 182);
+    height: 80px;
+    width: 1893px;
+    justify-content: space-evenly;
+    align-items: center;
+    display: flex;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 20px;
+    color: rgb(190, 216, 243);
+}
+    
+
+
